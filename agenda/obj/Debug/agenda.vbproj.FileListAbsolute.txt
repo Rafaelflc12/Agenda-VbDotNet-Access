@@ -1,0 +1,16 @@
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.vbproj.AssemblyReference.cache
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.CadCliente.resources
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.frmPrincipal.resources
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.Resources.resources
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.vbproj.GenerateResource.cache
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.vbproj.CoreCompileInputs.cache
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.frmConsulta.resources
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\bin\Debug\agenda.xml
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.xml
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\obj\Debug\agenda.pdb
+C:\Users\RAFAEL COLONESE\source\repos\agenda\agenda\bin\Debug\agenda.accdb

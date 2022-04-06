@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+agenda
+</name>
+</assembly>
+<members>
+<member name="T:agenda.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:agenda.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:agenda.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:agenda.CadCliente.AtivaDesativa(System.Boolean)">
+ <summary>
+ SubRotina para ativar e desativar os componentes do formulário.
+ </summary>
+ <param name="Status">True: Ativa os Componentes. False: Desativa os componentes.</param>
+</member>
+<member name="M:agenda.CadCliente.CancelaOperacao">
+ <summary>
+ SubRotina para cancelar qualquer tipo de operação em execução.
+ </summary>
+</member>
+<member name="M:agenda.CAD_CLIENTE.ExecutaQueryReader(System.String)">
+ <summary>
+ função para consulta e retorno dos dados nas propriedades.
+ </summary>
+ <param name="Query">Passa o comando sql</param>
+ <returns></returns>
+</member>
+<member name="M:agenda.CAD_CLIENTE.ExecutaQuery(System.String)">
+ <summary>
+ função para executar Insert, Update e Delete.
+ </summary>
+ <param name="sql">Passa o comando SQL</param>
+ <returns></returns>
+</member>
+<member name="M:agenda.CAD_CLIENTE.ExecutaQueryDataTable(System.String)">
+ <summary>
+ Função para executar select com retorno de mais de um resultado 
+ </summary>
+ <param name="sql">Passa o comando sql.</param>
+ <returns></returns>
+</member>
+</members>
+</doc>
